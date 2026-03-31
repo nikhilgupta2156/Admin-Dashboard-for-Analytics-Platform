@@ -1,0 +1,25 @@
+FeatureID,FeatureName,Category,ComplexityLevel
+1,Data Upload,EDA,Advanced
+2,Column Profiling,EDA,Intermediate
+3,Missing Value Analysis,EDA,Intermediate
+4,Correlation Matrix,EDA,Basic
+5,Distribution Plot,EDA,Advanced
+6,Box Plot,EDA,Advanced
+7,Scatter Matrix,EDA,Basic
+8,Time Series Viewer,EDA,Intermediate
+9,Outlier Detection,EDA,Advanced
+10,Auto Feature Selection,ML,Advanced
+11,Model Training,ML,Advanced
+12,Model Evaluation,ML,Basic
+13,Hyperparameter Tuning,ML,Advanced
+14,Confusion Matrix,ML,Basic
+15,ROC Curve,ML,Basic
+16,Feature Importance,ML,Intermediate
+17,Prediction Export,ML,Advanced
+18,Model Registry,ML,Basic
+19,Dashboard Builder,Reporting,Advanced
+20,Scheduled Reports,Reporting,Basic
+21,Data Export,Reporting,Intermediate
+22,PDF Export,Reporting,Advanced
+23,Email Digest,Reporting,Intermediate
+24,Embed Widget,Reporting,Intermediate
